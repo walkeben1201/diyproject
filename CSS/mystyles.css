@@ -24,7 +24,8 @@ a:hover{
 }
 .middle{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white; font-size: larger;
-    margin-right: padding; 5px; text-align: center;
+    margin-right: padding 5px; 
+    text-align: center;
 }
 .right{
     float: right;
