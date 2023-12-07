@@ -1,0 +1,45 @@
+body{
+    font-family:'Times New Roman', Times, serif; color: white;
+    background-image: url(https://superspec.com/wp-content/uploads/2020/11/12-Deep-Green.jpg);
+}
+u{
+    text-decoration-color: red;
+}
+img {
+    border: 15px solid white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+a:visited{
+    color:rgb(204, 241, 204)
+}
+a:hover{
+    font-size: 200%;
+}
+.count{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: white;
+    font-size: x-large;
+
+}
+.middle{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white; font-size: larger;
+    margin-right: padding 5px; 
+    text-align: center;
+}
+.right{
+    float: right;
+    font-family: 'Times New Roman', Times, serif; color: white;
+    border: solid; border-color: white;
+
+}
+.riz{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.pad{
+    padding-bottom: 150px;
+}
+.uppad{
+    padding-top: 150px;
+}
